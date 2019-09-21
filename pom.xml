@@ -17,6 +17,7 @@
 
     <modules>
         <module>chapter09_quartz_email</module>
+        <module>chapter10_mybatis</module>
     </modules>
 
     <properties>

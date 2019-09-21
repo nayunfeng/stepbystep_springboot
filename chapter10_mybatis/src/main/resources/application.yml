@@ -1,0 +1,13 @@
+### mybatis \u914D\u7F6E ###
+mybatis:
+  mapper-locations: mapper/*Mapper.xml
+  type-aliases-package: code.me.chapter10_mybatis.domain
+  configuration:
+    map-underscore-to-camel-case: true
+spring:
+  datasource:
+    platform: mysql
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/site?serverTimezone=Asia/Shanghai
+    username: root
+    password: root
