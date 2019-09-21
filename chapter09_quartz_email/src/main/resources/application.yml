@@ -1,0 +1,13 @@
+### mail\u914D\u7F6E ###
+spring:
+  mail:
+    host: smtp.163.com
+    username: 13137999097@163.com
+    password: smtp163
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+            required: true
