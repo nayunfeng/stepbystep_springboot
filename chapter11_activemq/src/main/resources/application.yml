@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    platform: mysql
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/step_spring_boot?serverTimezone=Asia/Shanghai
+    username: root
+    password: root
