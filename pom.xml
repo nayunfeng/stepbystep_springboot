@@ -19,6 +19,7 @@
         <module>chapter09_quartz_email</module>
         <module>chapter10_mybatis</module>
         <module>chapter11_activemq</module>
+        <module>chapter12_exception_retry</module>
     </modules>
 
     <properties>
