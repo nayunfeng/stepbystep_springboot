@@ -20,6 +20,7 @@
         <module>chapter10_mybatis</module>
         <module>chapter11_activemq</module>
         <module>chapter12_exception_retry</module>
+        <module>chapter13_mongodb</module>
     </modules>
 
     <properties>

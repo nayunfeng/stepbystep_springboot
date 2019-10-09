@@ -1,4 +1,4 @@
-### mybatis \u914D\u7F6E ###
+### mybatis 配置 ###
 mybatis:
   mapper-locations: mapper/*Mapper.xml
   type-aliases-package: code.me.chapter10_mybatis.domain
